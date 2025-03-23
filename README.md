@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syna Mukherjee
+# 👋 Hi, I'm Syna
 
 **Applied Mathematician** | **AI/ML Enthusiast** | **Data-Driven Problem Solver**  
 📚 Provost Honors Student @ UC San Diego (BS Applied Mathematics, Minors in CS & Economics)  
